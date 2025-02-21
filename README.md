@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a computer engineering student in the Politecnico di Torino.  <br>I'm working with Python, C and Kotlin.<br>Currently working on learning machine learning and web development. 
+I'm a computer engineering student in the Politecnico di Torino.  <br>I'm working with Python, C and Kotlin.<br>Currently focusing on machine learning and web development. 
 
 
 ## 🌐 Socials:
