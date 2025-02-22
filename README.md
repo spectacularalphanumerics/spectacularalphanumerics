@@ -1,6 +1,5 @@
 # 💫 About Me:
-I'm a computer engineering student in the Politecnico di Torino.  <br>I'm working with Python, C and Kotlin.<br>Currently focusing on machine learning and web development. 
-
+I’m proficient in **Python**, **C**, and **Kotlin**, and I’m currently diving deep into **machine learning** and **web development**. I enjoy working on projects that challenge me to learn and grow as a developer.
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:s342027@protonmail.com) 
