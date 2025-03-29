@@ -13,7 +13,11 @@ I’m proficient in **Python**, **C**, and **Kotlin**, and I’m currently divin
 
 
 - **[Applock](https://github.com/spectacularalphanumerics/Face-Recognising-App-Lock)**  
-  A python security tool that locks apps using facial recognition.  
+  A python security tool that locks apps using facial recognition.
+
+
+ - **[Physics Engine](https://github.com/spectacularalphanumerics/PhysicsEngine)**  
+  A 3D physics engine used to mess around with 3d objects and vector movement
 
 
 
